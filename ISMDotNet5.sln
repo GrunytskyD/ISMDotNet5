@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6", "WindowsFormsApp5\Task6.csproj", "{95437F92-39ED-4125-A50A-C73E80B586A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMatrix", "ClassLibrary2\ClassMatrix.csproj", "{826C0FD0-50D0-4FF5-AFCB-5005AF385AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMatrix", "MyMatrix\MyMatrix.csproj", "{0197E78B-B933-4B63-8899-44A1079C9F61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95437F92-39ED-4125-A50A-C73E80B586A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95437F92-39ED-4125-A50A-C73E80B586A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95437F92-39ED-4125-A50A-C73E80B586A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95437F92-39ED-4125-A50A-C73E80B586A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826C0FD0-50D0-4FF5-AFCB-5005AF385AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826C0FD0-50D0-4FF5-AFCB-5005AF385AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826C0FD0-50D0-4FF5-AFCB-5005AF385AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826C0FD0-50D0-4FF5-AFCB-5005AF385AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0197E78B-B933-4B63-8899-44A1079C9F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0197E78B-B933-4B63-8899-44A1079C9F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0197E78B-B933-4B63-8899-44A1079C9F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0197E78B-B933-4B63-8899-44A1079C9F61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {770EB20E-6EFE-4EA7-8F74-B99ABDE327EE}
+	EndGlobalSection
+EndGlobal

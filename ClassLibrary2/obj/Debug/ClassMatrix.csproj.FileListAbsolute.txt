@@ -1,0 +1,2 @@
+C:\Users\ДИМКИН КОМП\source\repos\WindowsFormsApp5\ClassLibrary2\obj\Debug\ClassMatrix.csprojAssemblyReference.cache
+C:\Users\ДИМКИН КОМП\source\repos\WindowsFormsApp5\ClassLibrary2\obj\Debug\ClassMatrix.csproj.CoreCompileInputs.cache

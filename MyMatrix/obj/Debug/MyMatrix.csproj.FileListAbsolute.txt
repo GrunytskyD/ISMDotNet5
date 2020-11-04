@@ -1,0 +1,2 @@
+C:\Users\ДИМКИН КОМП\source\repos\WindowsFormsApp5\MyMatrix\obj\Debug\MyMatrix.csprojAssemblyReference.cache
+C:\Users\ДИМКИН КОМП\source\repos\WindowsFormsApp5\MyMatrix\obj\Debug\MyMatrix.csproj.CoreCompileInputs.cache
